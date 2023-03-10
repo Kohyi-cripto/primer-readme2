@@ -1,2 +1,2 @@
 # primer-readme2
-esta es la segunda prueba con readme in a repositorie
+Ya no quiero configurar mas este reposotorio
